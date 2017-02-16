@@ -5,7 +5,7 @@
     {"name": "battleId", "type": "LONG"},
     {"type": "BYTE"},
     {"name": "serverId", "type": "BYTE"},
-    {"type": "BYTE"},
+    {"name": "index", "type": "BYTE"},
     {"type": "BYTE"},
     {"name": "feedPosition", "type": "BYTE"},
     {"name": "gameMode", "type": "BYTE", "values" : [ 
